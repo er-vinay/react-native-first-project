@@ -6,7 +6,7 @@ const App = () => {
     <View>
       <Text style={{fontSize : 30}}>React Native Apps</Text>
       <Text style={{fontSize : 30}}>React Native Apps</Text>
-      <Text style={{fontSize : 30}}>React Native Apps</Text>
+      <Text style={{fontSize : 30}}>React Natifsdafdsafsdfve Apps</Text>
       <Text style={{fontSize : 30}}>React Native Apps</Text>
       <Button title='Press Here' />
     </View>

@@ -4,3 +4,8 @@ node_modules
 /android/app/release/
 /android/app/debug/
 /*.apk
+.DS_Store
+android/.DS_Store
+android/app/.DS_Store
+android/build/.DS_Store
+android/build/generated/.DS_Store
