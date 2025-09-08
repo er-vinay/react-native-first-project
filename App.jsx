@@ -1,14 +1,17 @@
-import { View, Text, Button } from 'react-native';
+// import { View, Text, Button } from 'react-native';
+import { Text, View } from 'react-native';
 import React from 'react';
+// import First from './src/components/First';
+// import JSX from './src/components/JSX';
+// import OnPress from './src/components/OnPress';
+// import UseStateHook from './src/components/UseStateHook';
+import Props from './src/components/Props';
+
 
 const App = () => {
   return (
     <View>
-      <Text style={{fontSize : 30}}>React Native Apps</Text>
-      <Text style={{fontSize : 30}}>React Native Apps</Text>
-      <Text style={{fontSize : 30}}>React Natifsdafdsafsdfve Apps</Text>
-      <Text style={{fontSize : 30}}>React Native Apps</Text>
-      <Button title='Press Here' />
+      <Props />
     </View>
   );
 };
