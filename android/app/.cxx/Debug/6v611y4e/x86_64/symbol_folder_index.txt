@@ -1,1 +1,0 @@
-/Users/sunnykumar/Projects/react_native/myfirstapp/android/app/build/intermediates/cxx/Debug/6v611y4e/obj/x86_64

@@ -1,1 +1,0 @@
-/Users/sunnykumar/Projects/react_native/react-native-first-project/android/app/build/intermediates/cxx/Debug/4g4aw4n5/obj/x86_64
