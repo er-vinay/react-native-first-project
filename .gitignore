@@ -1,12 +1,17 @@
-node_modules
-# Ignore build outputs
+# General
+node_modules/
+
+# Android build outputs
 android/app/build/
-/android/app/build/
-/android/app/release/
-/android/app/debug/
-/*.apk
+android/build/
+android/app/
+
+# APK files
+*.apk
+*.aab
+
+# NDK/so files
+*.so
 .DS_Store
 android/.DS_Store
-android/app/.DS_Store
-android/build/.DS_Store
-android/build/generated/.DS_Store
+android/
