@@ -24,7 +24,7 @@ import React from 'react';
 // import UseRefHook from './src/components/UseRefHook';
 // import ModalDilogBox from './src/components/ModalDilogBox';
 // import AlertExample from './src/components/AlertExample';
-import GET_Api from './src/components/GET_Api';
+import GET_Api from './src/components/crud/GET_Api';
 import Styling from './src/components/Styling';
 
 
