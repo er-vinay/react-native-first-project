@@ -23,7 +23,8 @@ import React from 'react';
 // import StatusBarExample from './src/components/StatusBarExample';
 // import UseRefHook from './src/components/UseRefHook';
 // import ModalDilogBox from './src/components/ModalDilogBox';
-import AlertExample from './src/components/AlertExample';
+// import AlertExample from './src/components/AlertExample';
+import GET_Api from './src/components/GET_Api';
 import Styling from './src/components/Styling';
 
 
@@ -49,7 +50,8 @@ const App = () => {
             {/* <StatusBarExample /> */}
             {/* <UseRefHook /> */}
             {/* <ModalDilogBox /> */}
-            <AlertExample />
+            {/* <AlertExample /> */}
+            <GET_Api />
         </View>
     );
 };
