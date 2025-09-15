@@ -18,7 +18,12 @@ import React from 'react';
 // import UseEffectHookUnmountingPhase from './src/components/UseEffectHookUnmountingPhase';
 // import HideShowToggle from './src/components/HideShowToggle';
 // import StyleWithButton from './src/components/StyleWithButton';
-import Loder from './src/components/Loder';
+// import Loder from './src/components/Loder';
+// import PressableComponent from './src/components/PressableComponent';
+// import StatusBarExample from './src/components/StatusBarExample';
+// import UseRefHook from './src/components/UseRefHook';
+// import ModalDilogBox from './src/components/ModalDilogBox';
+import AlertExample from './src/components/AlertExample';
 import Styling from './src/components/Styling';
 
 
@@ -39,7 +44,12 @@ const App = () => {
             {/* <UseEffectHookUnmountingPhase /> */}
             {/* <HideShowToggle /> */}
             {/* <StyleWithButton /> */}
-            <Loder />
+            {/* <Loder /> */}
+            {/* <PressableComponent /> */}
+            {/* <StatusBarExample /> */}
+            {/* <UseRefHook /> */}
+            {/* <ModalDilogBox /> */}
+            <AlertExample />
         </View>
     );
 };
