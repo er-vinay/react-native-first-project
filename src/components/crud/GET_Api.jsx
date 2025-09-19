@@ -11,7 +11,7 @@ const GET_Api = () => {
         //         console.log(result);
         //     });
         // });
-        axios.get('http://10.0.2.2:3000/users').then((result) => {
+        axios.get('http://10.0.2.2:3001/users').then((result) => {
             // console.log(result); 
             setMyData(result.data);
         });
