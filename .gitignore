@@ -22,3 +22,4 @@ android/app/.cxx/
 
 # Node lock files (optional, only if you want to ignore them)
 package-lock.json
+ios/
