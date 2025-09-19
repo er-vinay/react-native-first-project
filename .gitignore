@@ -15,3 +15,7 @@ android/app/
 .DS_Store
 android/.DS_Store
 android/
+
+ios/build/
+ios/Pods/
+ios/
